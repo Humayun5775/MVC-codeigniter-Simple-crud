@@ -1,0 +1,3 @@
+download Codeignter 3.0
+replace application file with it.
+make folder assists/img
